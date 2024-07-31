@@ -1,1 +1,19 @@
-Uso de Vue com methods aplicavel em slots para implementação em vite
+
+Using Vue with applicable methods in slots for implementation in vite.
+
+
+Use Node : nodejs.org [ Windowns ]
+
+Terminal Script :
+
+node -v
+npm -v
+
+Use Node : [ Linux ]
+
+Terminal Script : 
+
+sudo apt update
+sudo dnf  install nodejs npm
+
+
